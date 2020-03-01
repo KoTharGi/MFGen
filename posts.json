@@ -1,63 +1,39 @@
 {
   "allmovie" : [
   {
-  "title" : "စင္ဒရဲလား ပံုျပင္မ်ား",
+  "title" : "ဒ႑ာရီထဲက မင္းသမီးေလး",
   "link" : "https://raw.githubusercontent.com/KoTharGi/MFairy/master/",
-  "tag" : "cindrella"
+  "tag" : "princess"
   }
   ,
 {
-  "title" : "စင္ဒရဲလား ပံုျပင္မ်ား",
+  "title" : "ဒ႑ာရီထဲက မင္းသားေလး",
   "link" : "https://raw.githubusercontent.com/KoTharGi/MFairy/master/",
-  "tag" : "cindrella"
+  "tag" : "minthar"
   }
   ,
 {
-  "title" : "စင္ဒရဲလား ပံုျပင္မ်ား",
+  "title" : "ဒ႑ာရီထဲက ဘုရင္ၾကီး",
   "link" : "https://raw.githubusercontent.com/KoTharGi/MFairy/master/",
-  "tag" : "cindrella"
+  "tag" : "king"
   }
   ,
 {
-  "title" : "စင္ဒရဲလား ပံုျပင္မ်ား",
+  "title" : "ဒ႑ာရီလာ စကားေျပာသာ သတၱ၀ါေလးမ်ား",
   "link" : "https://raw.githubusercontent.com/KoTharGi/MFairy/master/",
-  "tag" : "cindrella"
+  "tag" : "animal"
   }
   ,
 {
-  "title" : "စင္ဒရဲလား ပံုျပင္မ်ား",
+  "title" : "ပညာေပး ပံုျပင္မ်ား",
   "link" : "https://raw.githubusercontent.com/KoTharGi/MFairy/master/",
-  "tag" : "cindrella"
+  "tag" : "edu"
   }
   ,
 {
-  "title" : "စင္ဒရဲလား ပံုျပင္မ်ား",
+  "title" : "ဒ႑ာရီထဲက ထူးျခားဆန္းျပားပံုျပင္မ်ား",
   "link" : "https://raw.githubusercontent.com/KoTharGi/MFairy/master/",
-  "tag" : "cindrella"
-  }
-  ,
-{
-  "title" : "စင္ဒရဲလား ပံုျပင္မ်ား",
-  "link" : "https://raw.githubusercontent.com/KoTharGi/MFairy/master/",
-  "tag" : "cindrella"
-  }
-  ,
-{
-  "title" : "စင္ဒရဲလား ပံုျပင္မ်ား",
-  "link" : "https://raw.githubusercontent.com/KoTharGi/MFairy/master/",
-  "tag" : "cindrella"
-  }
-  ,
-{
-  "title" : "စင္ဒရဲလား ပံုျပင္မ်ား",
-  "link" : "https://raw.githubusercontent.com/KoTharGi/MFairy/master/",
-  "tag" : "cindrella"
-  }
-  ,
-{
-  "title" : "စင္ဒရဲလား ပံုျပင္မ်ား",
-  "link" : "https://raw.githubusercontent.com/KoTharGi/MFairy/master/",
-  "tag" : "cindrella"
+  "tag" : "witch"
   }
 ]
 }
